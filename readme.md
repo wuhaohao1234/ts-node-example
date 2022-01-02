@@ -16,3 +16,11 @@ https://typescript-eslint.io/rules/
 
 https://jestjs.io/zh-Hans/docs/getting-started
 
+## 快速开始
+
+```shell
+git clone git@github.com:wuhaohao1234/ts-node-example.git
+cd ts-node-example
+yarn
+yarn start
+```
